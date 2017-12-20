@@ -1,0 +1,8 @@
+3    5                 >	scanf value = 2 (a:3, b:5)
+2    4.6	       >	scanf value = 2 (a:2, b:4)
+3.2  6.7	       >	scanf value = 1 (a:3, b:1784594526)
+5.2  8		       >	scanf value = 1 (a:5, b:1857912926)
+3    b（文字）	       >	scanf value = 1 (a:3, b:1641693278)
+b    5		       >	scanf value = 0 (a:32767, b:1692258398)
+1    CONTROL+d	       >	scanf value = 1 (a:1, b:1769545822)      
+CONTROL+d	       >	scanf value = -1 (a:32767, b:1637654622)

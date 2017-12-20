@@ -1,0 +1,9 @@
+(×) int 1st;　最初の文字が１だから。
+(○) int _1st;
+(×) int while;　whileは予約語だから。
+(○) int ave;
+(×) int result#2;　＃は使えないから。
+(○) int no1, no2;
+(×) int no3  no4;　空白は使用できないから。
+(×) int sum-ave;　-は使用できないから。　
+(○) int sum_ave;

@@ -1,0 +1,5 @@
+672	/Network/Servers/stdfsv1/vol/vol5/home6/s1220006/Prog0
+174	/Network/Servers/stdfsv1/vol/vol5/home6/s1220006/Prog0/Ex02
+64	/Network/Servers/stdfsv1/vol/vol5/home6/s1220006/Prog0/Ex01
+61	/Network/Servers/stdfsv1/vol/vol5/home6/s1220006/Prog0/Ex04
+60	/Network/Servers/stdfsv1/vol/vol5/home6/s1220006/Prog0/Ex11

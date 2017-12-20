@@ -1,0 +1,1 @@
+cat popu.txt | sort -k 5,5 -nr | head -10 > popu-s.txt

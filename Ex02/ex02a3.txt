@@ -1,0 +1,12 @@
+( ○ ) printf("今日は%d日です。\n",i);
+(△) printf("今日は%d日です。\n,i");
+(× ) printf("今日は%d日です。\n" i);
+( △ ) printf("今日は%d日です。\n");
+(○ ) printf("今日は%d日です。\n",22);
+( ○ ) printf("今日は22日です。\n");
+(○ ) printf("今日は%d日です。\n",i+1);
+(△) printf("%d日は%d度でした。\n");
+(△ ) printf("%d日は%d度でした。\n",i);
+(△) printf("%d日は%d度でした。\n,j",i);
+( ○ ) printf("%d日は%d度でした。\n",j,i);
+(× ) printf(%d日は%d度でした。,j,i);

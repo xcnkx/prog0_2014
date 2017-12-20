@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+main(){
+  
+  int m,n,rest;
+  
+  printf("’À°’¿ôm’¡¢n’¤ò’Æþ’ÎÏ’¤·’¤Æ’¤¯’¤À’¤µ’¤¤’¡§");
+  scanf("%d%d",&m,&n);
+  
+  rest = m-m/n*n;
+  
+  printf(" %d ’¤ò %d ’¤Ç’¤ï’¤Ã’¤¿’Í¾’¤ê’¤Ï %d ’¤Ç’¤¹’¡£\n",m,n,rest);
+}

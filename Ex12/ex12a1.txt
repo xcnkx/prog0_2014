@@ -1,0 +1,11 @@
+/* ~/Prog0以下のディレクトリの中で容量の大きいもの上位5つをファイルbigdir.txtに格納する。*/
+
+du ~/Prog0 | sort -k 1 -nr | head -5 > bigdir.txt
+
+/* ~/Prog0/Ex04内のファイルについて、小さい順に並べたものをmoreに渡す。*/
+
+ls -l ~/Prog0/Ex04 | sort -k 4,4 | more
+
+/* ~/Prog0/Ex02内のファイル名にtxtが付くファイルがいくつあるかを表示する。 */
+
+ls -l ~/Prog0/Ex02 | grep txt | wc -l
